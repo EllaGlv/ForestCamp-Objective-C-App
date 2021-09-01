@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "6022665_clean_cleaning_protect_shampoo_soap_icon 1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "6022665_clean_cleaning_protect_shampoo_soap_icon 1@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "6022665_clean_cleaning_protect_shampoo_soap_icon 1@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
